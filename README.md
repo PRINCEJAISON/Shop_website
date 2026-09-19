@@ -1,0 +1,1 @@
+this is just a frontend for a shopping website just coded for fun
